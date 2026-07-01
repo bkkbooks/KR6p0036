@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6p0036/v1
+canonical_location: https://kanripo.org/bkk/KR6p0036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 略論安樂淨土義
+  identifiers:
+    alt_id:
+    - T47n1957
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1957.xml
+    old_id: T47n1957
+  edition:
+    short: bkk
+editions:
+- short: 敦
+  label: 敦
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0036_000.yaml, hash: 'sha256:afae8cfeb6298bb882a3742a9d7a1b8a51c7669dc991f02238f7721ec5022cbc'}
+  - {seq: 1, filename: KR6p0036_001.yaml, hash: 'sha256:82a3601fe236ae3d06101c7c0ceb0e26f7c52239919c580ee9de2492701d64ba'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0036_001.markers.yaml, hash: 'sha256:80f4fdb754577150cc1fc9e96ed9ef7a5303e51830a773000c606e4bdd49afe1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0036_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4151
+  label: 略論安樂淨土義
+  type: juan
+  level: 1
+hash: sha256:5368dd0c91d2e888e2d67eadf2e51bbea76616fd3e0efccb7d8108788c2a610a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

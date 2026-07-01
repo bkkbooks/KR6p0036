@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0036/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略論安樂淨土義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1957.xml
+    old_id: T47n1957
+hash: sha256:afae8cfeb6298bb882a3742a9d7a1b8a51c7669dc991f02238f7721ec5022cbc
