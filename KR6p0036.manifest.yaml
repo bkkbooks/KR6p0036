@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0036/v1
 canonical_location: https://kanripo.org/bkk/KR6p0036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 略論安樂淨土義
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0036_000.yaml, hash: 'sha256:afae8cfeb6298bb882a3742a9d7a1b8a51c7669dc991f02238f7721ec5022cbc'}
-  - {seq: 1, filename: KR6p0036_001.yaml, hash: 'sha256:5962f68fc5c32084e5b034cc61eb571de32d83f10a30edfdf893e594c4a67223'}
+  - {seq: 1, filename: KR6p0036_001.yaml, hash: 'sha256:a56ee1c00638b987ef4c41900ac679bbc4196ea6039a7dd736091a373946cf87'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0036_000.markers.yaml, hash: 'sha256:427438bd44fff3dda3526d6727e84cffde8ffb14641d23c3241c04c1fdf319f9'}
-  - {seq: 1, role: markers, filename: assets/KR6p0036_001.markers.yaml, hash: 'sha256:a61bbe8e3e5194bdba979aa7f8cf8893c4e3a7c0358a10099a3c28397ad1e88a'}
+  - {seq: 1, role: markers, filename: assets/KR6p0036_001.markers.yaml, hash: 'sha256:9c5396ebebf08bed08c5a1ccdc66d62232bbdeb52a0fd79a9d368fa62977589f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 略論安樂淨土義
   type: juan
   level: 1
-hash: sha256:5167646b885bc556d242b62e4fa34f882d9fe0d016f0e045ffb57b79685502f3
+hash: sha256:3bf67a3cfffdd41bd5b9765b0631e61157048377bda87450d4ec96fda5263ff6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
